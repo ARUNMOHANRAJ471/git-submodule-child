@@ -1,0 +1,3 @@
+[submodule "git-submodule-parent"]
+	path = git-submodule-parent
+	url = https://github.com/ARUNMOHANRAJ471/git-submodule-parent.git
